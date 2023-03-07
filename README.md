@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhishek121295
-- 👀 I’m interested in Programing and Software Development. I recently forayed into machine learning and here are some projects that I have made.
+- 👀 I’m interested in Programing and Software Development.
 - 🌱 I’m currently pursuing Master of Science in Computer Science from Indiana University, Bloomington.
+-  Here are some projects that I have made during my Masters.
 - 📫 How to reach me- via abhisheksharma5023@gmail.com...
 
 <!---
