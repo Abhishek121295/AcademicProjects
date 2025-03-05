@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhishek121295 aka Abhishek Sharma.
 - 👀 I’m interested in Programing and Software Development.
-- 🌱 I’m currently pursuing Master of Science in Computer Science from Indiana University, Bloomington.
+- Currently working as a Full Stack Software Engineer at Aeroseal LLC.
+- 🌱 I’m a Master of Science in Computer Science graduate from Indiana University, Bloomington.
 -  Here are some projects that I have made during my Masters.
 - 📫 How to reach me- abhisheksharma5023@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abhishek-sharma-a6261b140/
